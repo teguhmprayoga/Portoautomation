@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(222, 226, 202);
+}
+
+table{
+    border-collapse: collapse;
+    font-size:10pt;
+    border:3px solid #cccccc;
+    border-color: black;
+}
+
+td{
+    padding:3px;
+    height:25px;
+}
+
+th{
+    background-color: rgb(167, 185, 60);
+    color: white;
+    height:30px;
+}
+
+h3{
+    font-weight: 600;
+    color: rgb(144, 62, 211);
+}
+
+.btn-delete{
+    border:1px solid #db5d59;
+    background: #db5d59 url('images/hapus.png') no-repeat 5px 4px;
+    height:22px;
+    padding-left:15px;
+    padding-top:5px;
+}
+
+.btn-update{
+    border:1px solid #00b3a8;
+    background: #00b3a8 url('images/edit.png') no-repeat 5px 4px;
+    height:22px;
+    padding-left:15px;
+    padding-top:5px;
+}
+
+h1{
+    font-weight: 600;
+    color: rgb(1, 116, 16);
+    text-align-last: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
